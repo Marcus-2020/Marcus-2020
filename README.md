@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Marcus-2020, Brazilian, from Presidente Prudente, São Paulo, Brazil, currently studying systems development and analysis, (last year). 
-- 👀 I’m interested and studing in Java, .NET C#, Spring Boot, Angular, Python and related technologies.
-- 🌱 I’m currently learning all those things every day now, looking foward to work with them in the future.
+- 👋 Hi, I’m @Marcus-2020, Brazilian, from Presidente Prudente, São Paulo, Brazil, .NET and C# Developer, Protestant Christian, married and I have a dog. 
+- 👀 I’m interested and studing in .NET C#, Blazor, Angular, Vue, Flutter, Python and related technologies.
+- 🌱 I’m currently learning all those things, growing every day, and (tks God) been able to share with others.
 - 💞️ I’m looking to collaborate on all of that if i can, i am new with then, but what i know i own to the help of many here and elsewhere, so i want to help too.
 - 📫 How to reach me: By e-mail - marcus.santos1808@hotmail.com and on LinkedIn - https://www.linkedin.com/in/marcus-vinicius-menezes-dos-santos.
 
