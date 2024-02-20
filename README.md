@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Marcus-2020, Brazilian, from Presidente Prudente, São Paulo, Brazil, .NET and C# Developer, Protestant Christian, married and I have a dog. 
-- 👀 I’m interested and studing in .NET C#, Blazor, Angular, Vue, Flutter, Python and related technologies.
-- 🌱 My current focus is learn or undestand better DDD (Domain-driven-design), Clean Archtecture and Microservices with .NET Core and front-end web development with Angular/Typescript.
-- 💞️ I’m looking to collaborate on all of that if i can, i am new with then, but what i know i own to the help of many here and elsewhere, so i want to help too.
+- 👀 I’m interested and studing in .NET C#, Go, Rust, JS/TS and other related technologies.
+- 🌱 I'm constanly learning new things, I love the experience of exploration of new techniches, patterns and languages
 - 📫 How to reach me: By e-mail - marcus.santos1808@hotmail.com and on LinkedIn - https://www.linkedin.com/in/marcus-vinicius-menezes-dos-santos.
 
 <div align="center">
