@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Marcus-2020, Brazilian, from Presidente Prudente, São Paulo, Brazil, .NET and C# Developer, Protestant Christian, married and I have a dog. 
-- 👀 I’m interested to code, study and improve in .NET C#, Go, Rust, JS/TS and other related technologies.
+- 👋 Hi, I’m @Marcus-2020, Brazilian, from Presidente Prudente, São Paulo, Brazil, .NET and C# Developer, Christian and married. 
+- 👀 I’m interested to code, study and improve in .NET C#, Go, Elixir, JS/TS and other related technologies.
 - 🌱 I'm constanly learning new things, I love the experience of exploration of new techniches, patterns and languages
 - 📫 How to reach me: By e-mail - marcus.santos1808@hotmail.com and on LinkedIn - https://www.linkedin.com/in/marcus-vinicius-menezes-dos-santos.
 
@@ -22,11 +22,14 @@
 <a href="https://www.linkedin.com/in/marcus-vinicius-menezes-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<a href="https://github.com/Marcus-2020/e-commerce-angular-net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcus-2020&repo=e-commerce-angular-net&theme=github_dark" />
+<a href="https://github.com/Marcus-2020/SpaceXCompanion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcus-2020&repo=SpaceXCompanion&theme=github_dark" />
 </a>
-<a href="https://github.com/Marcus-2020/digital_business_card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcus-2020&repo=digital_business_card&theme=github_dark" />
+<a href="https://github.com/Marcus-2020/Fina">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcus-2020&repo=Fina&theme=github_dark" />
+</a>
+<a href="https://github.com/Marcus-2020/treinamentos_desenvolvimento_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marcus-2020&repo=treinamentos_desenvolvimento_1&theme=github_dark" />
 </a>
 
 <!---
